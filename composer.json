@@ -1,0 +1,23 @@
+{
+  "name": "antoniosam/easy-doctrine",
+  "description": "Clase para paginar Entidades sencillas de doctrine.",
+  "type": "library",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Antonio Samano",
+      "email": "antoniost.developer@gmail.com"
+    }
+  ],
+  "minimum-stability": "dev",
+  "require": {
+    "php": ">=7.2.5"
+  },
+  "autoload": {
+    "psr-4" : {
+      "Ast\\EasyDoctrine\\": "src"
+    }
+  }
+}
+
+
